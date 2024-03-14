@@ -362,6 +362,7 @@
 "Assets/VolumetricLines/Scripts/VolumetricLineBehavior.cs"
 "Assets/VolumetricLines/Scripts/VolumetricLineStripBehavior.cs"
 "Assets/VolumetricLines/Scripts/VolumetricLineVertexData.cs"
+"Assets/weaponController.cs"
 -langversion:9.0
 
 /deterministic
