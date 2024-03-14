@@ -352,8 +352,16 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity 2022.3.5f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity 2022.3.5f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/blowTorch.cs"
 "Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
 "Assets/Sci Fi Modular Pack/Scripts/CameraController.cs"
+"Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts/CannonBehavior.cs"
+"Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts/CreateSinShapedLineStrip.cs"
+"Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts/ShotBehavior.cs"
+"Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts/VolumetricMultiLineBehavior.cs"
+"Assets/VolumetricLines/Scripts/VolumetricLineBehavior.cs"
+"Assets/VolumetricLines/Scripts/VolumetricLineStripBehavior.cs"
+"Assets/VolumetricLines/Scripts/VolumetricLineVertexData.cs"
 -langversion:9.0
 
 /deterministic
